@@ -1,2 +1,2 @@
 # Lesson41
-Sorting algorithms
+Sorting algorithms - optimization of methods
